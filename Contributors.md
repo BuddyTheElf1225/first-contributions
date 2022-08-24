@@ -686,6 +686,7 @@ elkhechafi zakaria
 - Alina A.
 - [Alok Paidalwar]
   Vincent
+Buddy The Elf
   [Chase Averett] (https://github.com/averettcd/) 
   [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Felipe Cabeza] (https://github.com/bezaca)
